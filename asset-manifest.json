@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fe-poros/static/css/main.a3b55698.css",
+    "main.js": "/fe-poros/static/js/main.79a32988.js",
+    "static/js/592.a2090f52.chunk.js": "/fe-poros/static/js/592.a2090f52.chunk.js",
+    "static/media/pexels-vincent-ma-janssen-1310847.jpg": "/fe-poros/static/media/pexels-vincent-ma-janssen-1310847.61bdce7c81b594c2cb01.jpg",
+    "index.html": "/fe-poros/index.html",
+    "main.a3b55698.css.map": "/fe-poros/static/css/main.a3b55698.css.map",
+    "main.79a32988.js.map": "/fe-poros/static/js/main.79a32988.js.map",
+    "592.a2090f52.chunk.js.map": "/fe-poros/static/js/592.a2090f52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3b55698.css",
+    "static/js/main.79a32988.js"
+  ]
+}
